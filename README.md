@@ -27,7 +27,7 @@
 ###
 
 ```javascript
-const my = new About();
+let my = new About();
 my.name = "Aditya Dwi Saputra";
 my.age = 18;
 my.hobby = ["Gaming 🎮", "Hiking 🌄"];
